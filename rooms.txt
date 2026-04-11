@@ -1,0 +1,11 @@
+1,Nhà ở,2.0E10,false,Thanh Xuân,120.0,7
+2,Nhà ở,1.5E10,false,Cầu Giấy,100.0,8
+3,Biệt thự,3.0E10,false,Tây Hồ,120.0,6
+4,Chung cư,6.0E9,false,Nam Từ Liêm,90.0,21
+5,ShopHouse,1.1E10,false,Hưng Yên,120.0,4
+6,Chung cư,1.5E10,true,Cầu Giấy,180.0,14
+7,Biệt thự,1.0E11,true,Hoàn Kiếm,250.0,6
+8,Nhà ở,8.0E9,false,Hà Đông,60.0,7
+9,Chung cư,1.2E10,true,Ba Đình,100.0,12
+10,ShopHouse,8.0E9,false,Hà Đông,150.0,4
+11,Apartment,2.5E11,true,Hoàn Kiếm,250.0,12
